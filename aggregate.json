@@ -1,5 +1,5 @@
 {
-    "id": "https://offline.mobileticket.se/pricelist/1617779994",
+    "id": "https://offline.mobileticket.se/pricelist/1618322271",
     "pricelists": [
         {
             "description": "Manual pricelist for Sk\u00e5netrafiken",
@@ -479,7 +479,7 @@
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.hlt.se/api/v1/pricelist/784",
+            "id": "https://stina.test.bobcat.hlt.se/api/v1/pricelist/788",
             "pid": "22",
             "products": [
                 {
@@ -9200,11 +9200,11 @@
                     ]
                 }
             ],
-            "revisionId": "784",
+            "revisionId": "788",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.lanstrafikenkron.se/api/v1/pricelist/662",
+            "id": "https://stina.test.bobcat.lanstrafikenkron.se/api/v1/pricelist/670",
             "pid": "23",
             "products": [
                 {
@@ -9235,7 +9235,11 @@
                     "productDescription": "Enkelbiljett \u00c4lmhults Stadstrafik",
                     "productId": "15",
                     "productSalesChannels": [
-                        "app"
+                        "pos",
+                        "app",
+                        "web",
+                        "center",
+                        "onboard"
                     ],
                     "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT120M",
@@ -9271,7 +9275,11 @@
                     "productDescription": "Enkelbiljett \u00c4lmhults Stadstrafik",
                     "productId": "15",
                     "productSalesChannels": [
-                        "app"
+                        "pos",
+                        "app",
+                        "web",
+                        "center",
+                        "onboard"
                     ],
                     "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT120M",
@@ -13943,11 +13951,11 @@
                     ]
                 }
             ],
-            "revisionId": "662",
+            "revisionId": "670",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.jlt.se/api/v1/pricelist/233",
+            "id": "https://stina.test.bobcat.jlt.se/api/v1/pricelist/235",
             "pid": "24",
             "products": [
                 {
@@ -15504,11 +15512,11 @@
                     ]
                 }
             ],
-            "revisionId": "233",
+            "revisionId": "235",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.kalmarlanstrafik.se/api/v1/pricelist/781",
+            "id": "https://stina.test.bobcat.kalmarlanstrafik.se/api/v1/pricelist/787",
             "pid": "25",
             "products": [
                 {
@@ -17110,8 +17118,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 122.0,
-                            "vatAmount": 7.32,
+                            "totalAmount": 73.0,
+                            "vatAmount": 4.38,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -17134,10 +17142,10 @@
                         "onboard",
                         "tvm"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT260M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -17239,8 +17247,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 73.0,
-                            "vatAmount": 4.38,
+                            "totalAmount": 122.0,
+                            "vatAmount": 7.32,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -17263,10 +17271,10 @@
                         "onboard",
                         "tvm"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT260M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -18044,7 +18052,7 @@
                     ]
                 }
             ],
-            "revisionId": "781",
+            "revisionId": "787",
             "version": "1.1.0"
         },
         {
