@@ -1,5 +1,5 @@
 {
-    "id": "https://offline.mobileticket.se/pricelist/1617780031",
+    "id": "https://offline.mobileticket.se/pricelist/1618326681",
     "pricelists": [
         {
             "description": "Manual pricelist for Sk\u00e5netrafiken",
@@ -17582,6 +17582,1936 @@
             "model": "uniqueZonesCount",
             "pid": "38",
             "products": [],
+            "version": "1.1.0"
+        },
+        {
+            "id": "https://stina.prod.vt.mobileticket.se/api/v1/pricelist/28",
+            "pid": "42",
+            "products": [
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 3,
+                        "zones": [
+                            "3002",
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 82.0,
+                            "vatAmount": 4.92,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "ABC",
+                    "productId": "26",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 3,
+                        "zones": [
+                            "3002",
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 108.0,
+                            "vatAmount": 6.48,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "ABC",
+                    "productId": "26",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 3,
+                        "zones": [
+                            "3002",
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 108.0,
+                            "vatAmount": 6.48,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "ABC",
+                    "productId": "26",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3002",
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 56.0,
+                            "vatAmount": 3.36,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "BC",
+                    "productId": "25",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3002",
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 74.0,
+                            "vatAmount": 4.44,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "BC",
+                    "productId": "25",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3002",
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 74.0,
+                            "vatAmount": 4.44,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "BC",
+                    "productId": "25",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 56.0,
+                            "vatAmount": 3.36,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "AB",
+                    "productId": "24",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 74.0,
+                            "vatAmount": 4.44,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "AB",
+                    "productId": "24",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 74.0,
+                            "vatAmount": 4.44,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "AB",
+                    "productId": "24",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3002"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 31.0,
+                            "vatAmount": 1.86,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "C",
+                    "productId": "23",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3002"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 40.0,
+                            "vatAmount": 2.4,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "C",
+                    "productId": "23",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3002"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 40.0,
+                            "vatAmount": 2.4,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "C",
+                    "productId": "23",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 31.0,
+                            "vatAmount": 1.86,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "B",
+                    "productId": "22",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 40.0,
+                            "vatAmount": 2.4,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "B",
+                    "productId": "22",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 40.0,
+                            "vatAmount": 2.4,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "B",
+                    "productId": "22",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 31.0,
+                            "vatAmount": 1.86,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "A",
+                    "productId": "21",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 40.0,
+                            "vatAmount": 2.4,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "A",
+                    "productId": "21",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 40.0,
+                            "vatAmount": 2.4,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "A",
+                    "productId": "21",
+                    "productSalesChannels": [
+                        "app",
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 3,
+                        "zones": [
+                            "3002",
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 97.0,
+                            "vatAmount": 5.82,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "ABC",
+                    "productId": "16",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 3,
+                        "zones": [
+                            "3002",
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 130.0,
+                            "vatAmount": 7.8,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "ABC",
+                    "productId": "16",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 3,
+                        "zones": [
+                            "3002",
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 130.0,
+                            "vatAmount": 7.8,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "ABC",
+                    "productId": "16",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3002",
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 67.0,
+                            "vatAmount": 4.02,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "BC",
+                    "productId": "15",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3002",
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 89.0,
+                            "vatAmount": 5.34,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "BC",
+                    "productId": "15",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3002",
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 89.0,
+                            "vatAmount": 5.34,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "BC",
+                    "productId": "15",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 67.0,
+                            "vatAmount": 4.02,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "AB",
+                    "productId": "14",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 89.0,
+                            "vatAmount": 5.34,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "AB",
+                    "productId": "14",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "3001",
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 89.0,
+                            "vatAmount": 5.34,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "AB",
+                    "productId": "14",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3002"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 36.0,
+                            "vatAmount": 2.16,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "C",
+                    "productId": "13",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3002"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 48.0,
+                            "vatAmount": 2.88,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "C",
+                    "productId": "13",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3002"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 48.0,
+                            "vatAmount": 2.88,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "C",
+                    "productId": "13",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 48.0,
+                            "vatAmount": 2.88,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "B",
+                    "productId": "12",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 48.0,
+                            "vatAmount": 2.88,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "B",
+                    "productId": "12",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3001"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 36.0,
+                            "vatAmount": 2.16,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "B",
+                    "productId": "12",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 48.0,
+                            "vatAmount": 2.88,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "A",
+                    "productId": "11",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 48.0,
+                            "vatAmount": 2.88,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "A",
+                    "productId": "11",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "3000"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 36.0,
+                            "vatAmount": 2.16,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "A",
+                    "productId": "11",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT90M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                }
+            ],
+            "revisionId": "28",
+            "version": "1.1.0"
+        },
+        {
+            "id": "https://stina.prod.ot.mobileticket.se/api/v1/pricelist/5",
+            "pid": "50",
+            "products": [
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "4524",
+                            "4531"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 34.0,
+                            "vatAmount": 2.04,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.5,
+                                        "vatAmount": 0.27,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen \u00c5tvidaberg",
+                    "productId": "35",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT130M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "4524",
+                            "4531"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 50.0,
+                            "vatAmount": 3.0,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 6.5,
+                                        "vatAmount": 0.39,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen \u00c5tvidaberg",
+                    "productId": "35",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT130M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "4531"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 18.0,
+                            "vatAmount": 1.08,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.5,
+                                        "vatAmount": 0.27,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Falerum ",
+                    "productId": "34",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "4531"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 26.0,
+                            "vatAmount": 1.56,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 6.5,
+                                        "vatAmount": 0.39,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Falerum ",
+                    "productId": "34",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 5,
+                        "zones": [
+                            "4445",
+                            "4601",
+                            "4406",
+                            "4524",
+                            "4531"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 50.0,
+                            "vatAmount": 3.0,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.5,
+                                        "vatAmount": 0.27,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Link\u00f6ping",
+                    "productId": "33",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT160M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 5,
+                        "zones": [
+                            "4445",
+                            "4601",
+                            "4406",
+                            "4524",
+                            "4531"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 75.0,
+                            "vatAmount": 4.5,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 6.5,
+                                        "vatAmount": 0.39,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Link\u00f6ping",
+                    "productId": "33",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT160M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "4601"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 18.0,
+                            "vatAmount": 1.08,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.5,
+                                        "vatAmount": 0.27,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Kisa",
+                    "productId": "31",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "4601"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 26.0,
+                            "vatAmount": 1.56,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 6.5,
+                                        "vatAmount": 0.39,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Kisa",
+                    "productId": "31",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "4445",
+                            "4601"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 34.0,
+                            "vatAmount": 2.04,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.5,
+                                        "vatAmount": 0.27,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Rimforsa",
+                    "productId": "32",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Barn/Ungdom 7-19 \u00e5r Enkel",
+                    "relativeValidity": "PT130M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": true,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "4445",
+                            "4601"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 50.0,
+                            "vatAmount": 3.0,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 6.5,
+                                        "vatAmount": 0.39,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "25"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kustpilen Rimforsa",
+                    "productId": "32",
+                    "productSalesChannels": [
+                        "app",
+                        "onboard",
+                        "center",
+                        "tvm",
+                        "pos",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT130M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                }
+            ],
+            "revisionId": "5",
             "version": "1.1.0"
         }
     ],
