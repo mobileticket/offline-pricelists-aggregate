@@ -1,5 +1,5 @@
 {
-    "id": "https://offline.mobileticket.se/pricelist/1624003542",
+    "id": "https://offline.mobileticket.se/pricelist/1624009401",
     "pricelists": [
         {
             "description": "Manual pricelist for Sk\u00e5netrafiken",
@@ -16,7 +16,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 27.0,
-                            "vatAmount": 5.4,
+                            "vatAmount": 1.53,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -25,7 +25,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -34,7 +34,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -68,7 +68,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 51.0,
-                            "vatAmount": 10.2,
+                            "vatAmount": 2.89,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -77,7 +77,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -86,7 +86,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -120,7 +120,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 105.0,
-                            "vatAmount": 21,
+                            "vatAmount": 5.94,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -129,7 +129,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -138,7 +138,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -172,7 +172,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 16.2,
-                            "vatAmount": 3.24,
+                            "vatAmount": 0.92,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -181,7 +181,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -190,7 +190,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -224,7 +224,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 30.6,
-                            "vatAmount": 6.12,
+                            "vatAmount": 1.73,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -233,7 +233,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -242,7 +242,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -276,7 +276,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 63.0,
-                            "vatAmount": 21,
+                            "vatAmount": 3.57,
                             "vatPercentage": 12.6
                         },
                         "discounts": {
@@ -285,7 +285,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -294,7 +294,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -328,7 +328,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 20.25,
-                            "vatAmount": 4.05,
+                            "vatAmount": 1.15,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -337,7 +337,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -346,7 +346,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -380,7 +380,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 38.25,
-                            "vatAmount": 7.65,
+                            "vatAmount": 2.17,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -389,7 +389,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -398,7 +398,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -432,7 +432,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 78.75,
-                            "vatAmount": 15.75,
+                            "vatAmount": 4.46,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -441,7 +441,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -450,7 +450,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
