@@ -1,5 +1,5 @@
 {
-    "id": "https://offline.mobileticket.se/pricelist/1624003512",
+    "id": "https://offline.mobileticket.se/pricelist/1624009371",
     "pricelists": [
         {
             "description": "Manual pricelist for Sk\u00e5netrafiken",
@@ -16,7 +16,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 27.0,
-                            "vatAmount": 5.4,
+                            "vatAmount": 1.53,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -25,7 +25,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -34,7 +34,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -68,7 +68,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 51.0,
-                            "vatAmount": 10.2,
+                            "vatAmount": 2.89,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -77,7 +77,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -86,7 +86,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -120,7 +120,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 105.0,
-                            "vatAmount": 21,
+                            "vatAmount": 5.94,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -129,7 +129,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -138,7 +138,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 6.75,
-                                        "vatAmount": 1.35,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -172,7 +172,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 16.2,
-                            "vatAmount": 3.24,
+                            "vatAmount": 0.92,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -181,7 +181,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -190,7 +190,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -224,7 +224,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 30.6,
-                            "vatAmount": 6.12,
+                            "vatAmount": 1.73,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -233,7 +233,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -242,7 +242,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -276,7 +276,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 63.0,
-                            "vatAmount": 21,
+                            "vatAmount": 3.57,
                             "vatPercentage": 12.6
                         },
                         "discounts": {
@@ -285,7 +285,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -294,7 +294,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 4.05,
-                                        "vatAmount": 0.808,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -328,7 +328,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 20.25,
-                            "vatAmount": 4.05,
+                            "vatAmount": 1.15,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -337,7 +337,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -346,7 +346,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -380,7 +380,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 38.25,
-                            "vatAmount": 7.65,
+                            "vatAmount": 2.17,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -389,7 +389,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -398,7 +398,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -432,7 +432,7 @@
                         "base": {
                             "currency": "SEK",
                             "totalAmount": 78.75,
-                            "vatAmount": 15.75,
+                            "vatAmount": 4.46,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -441,7 +441,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "22"
@@ -450,7 +450,7 @@
                                     "discount": {
                                         "currency": "SEK",
                                         "totalAmount": 5.05,
-                                        "vatAmount": 1.01,
+                                        "vatAmount": 0.29,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -16219,2211 +16219,9 @@
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.kalmarlanstrafik.se/api/v1/pricelist/818",
+            "id": "https://stina.test.bobcat.kalmarlanstrafik.se/api/v1/pricelist/819",
             "pid": "25",
             "products": [
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 1
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 31.0,
-                            "vatAmount": 1.75,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett",
-                    "productId": "7",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT120M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 1
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 19.0,
-                            "vatAmount": 1.08,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett",
-                    "productId": "7",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT120M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 2
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 41.0,
-                            "vatAmount": 2.32,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-2-zon",
-                    "productId": "7-2-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "2 zon Vuxen Enkel",
-                    "relativeValidity": "PT130M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 2
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 25.0,
-                            "vatAmount": 1.42,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-2-zon",
-                    "productId": "7-2-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "2 zon Ungdom Enkel",
-                    "relativeValidity": "PT130M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 3
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 51.0,
-                            "vatAmount": 2.89,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-3-zon",
-                    "productId": "7-3-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "3 zon Vuxen Enkel",
-                    "relativeValidity": "PT140M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 3
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 31.0,
-                            "vatAmount": 1.75,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-3-zon",
-                    "productId": "7-3-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "3 zon Ungdom Enkel",
-                    "relativeValidity": "PT140M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 4
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 62.0,
-                            "vatAmount": 3.51,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-4-zon",
-                    "productId": "7-4-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "4 zon Vuxen Enkel",
-                    "relativeValidity": "PT150M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 4
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-4-zon",
-                    "productId": "7-4-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "4 zon Ungdom Enkel",
-                    "relativeValidity": "PT150M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 5
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 72.0,
-                            "vatAmount": 4.08,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-5-zon",
-                    "productId": "7-5-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "5 zon Vuxen Enkel",
-                    "relativeValidity": "PT160M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 5
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 43.0,
-                            "vatAmount": 2.43,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-5-zon",
-                    "productId": "7-5-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "5 zon Ungdom Enkel",
-                    "relativeValidity": "PT160M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 6
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 82.0,
-                            "vatAmount": 4.64,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-6-zon",
-                    "productId": "7-6-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "6 zon Vuxen Enkel",
-                    "relativeValidity": "PT170M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 6
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 49.0,
-                            "vatAmount": 2.77,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-6-zon",
-                    "productId": "7-6-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "6 zon Ungdom Enkel",
-                    "relativeValidity": "PT170M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 7
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 92.0,
-                            "vatAmount": 5.21,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-7-zon",
-                    "productId": "7-7-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "7 zon Vuxen Enkel",
-                    "relativeValidity": "PT180M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 7
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 55.0,
-                            "vatAmount": 3.11,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-7-zon",
-                    "productId": "7-7-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "7 zon Ungdom Enkel",
-                    "relativeValidity": "PT180M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 8
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 102.0,
-                            "vatAmount": 5.77,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-8-zon",
-                    "productId": "7-8-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "8 zon Vuxen Enkel",
-                    "relativeValidity": "PT190M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 8
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 61.0,
-                            "vatAmount": 3.45,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-8-zon",
-                    "productId": "7-8-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "8 zon Ungdom Enkel",
-                    "relativeValidity": "PT190M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 9
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 112.0,
-                            "vatAmount": 6.34,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-9-zon",
-                    "productId": "7-9-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "9 zon Vuxen Enkel",
-                    "relativeValidity": "PT200M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 9
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 67.0,
-                            "vatAmount": 3.79,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-9-zon",
-                    "productId": "7-9-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "9 zon Ungdom Enkel",
-                    "relativeValidity": "PT200M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 10
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 122.0,
-                            "vatAmount": 6.91,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 7.75,
-                                        "vatAmount": 0.46,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-10-zon",
-                    "productId": "7-10-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "10 zon Vuxen Enkel",
-                    "relativeValidity": "PT210M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "passedZonesCount": 10
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 73.0,
-                            "vatAmount": 4.13,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": [
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "50"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "38"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "24"
-                                },
-                                {
-                                    "discount": {
-                                        "currency": "SEK",
-                                        "totalAmount": 4.75,
-                                        "vatAmount": 0.28,
-                                        "vatPercentage": 6
-                                    },
-                                    "pid": "23"
-                                }
-                            ]
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett-10-zon",
-                    "productId": "7-10-zon",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "10 zon Ungdom Enkel",
-                    "relativeValidity": "PT210M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 89,
-                        "zones": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9",
-                            "10",
-                            "11",
-                            "12",
-                            "13",
-                            "14",
-                            "15",
-                            "16",
-                            "17",
-                            "18",
-                            "19",
-                            "20",
-                            "21",
-                            "22",
-                            "24",
-                            "25",
-                            "27",
-                            "30",
-                            "31",
-                            "32",
-                            "33",
-                            "34",
-                            "35",
-                            "36",
-                            "37",
-                            "38",
-                            "40",
-                            "41",
-                            "42",
-                            "43",
-                            "44",
-                            "45",
-                            "46",
-                            "47",
-                            "48",
-                            "49",
-                            "51",
-                            "52",
-                            "53",
-                            "54",
-                            "55",
-                            "56",
-                            "57",
-                            "58",
-                            "59",
-                            "60",
-                            "61",
-                            "62",
-                            "63",
-                            "64",
-                            "65",
-                            "66",
-                            "67",
-                            "69",
-                            "70",
-                            "71",
-                            "72",
-                            "73",
-                            "74",
-                            "75",
-                            "76",
-                            "80",
-                            "81",
-                            "82",
-                            "83",
-                            "84",
-                            "85",
-                            "86",
-                            "88",
-                            "90",
-                            "91",
-                            "92",
-                            "93",
-                            "94",
-                            "95",
-                            "96",
-                            "97",
-                            "98",
-                            "99",
-                            "77",
-                            "79"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 73.0,
-                            "vatAmount": 4.13,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Kalmar l\u00e4n",
-                    "productId": "11",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 89,
-                        "zones": [
-                            "1",
-                            "2",
-                            "3",
-                            "4",
-                            "5",
-                            "6",
-                            "7",
-                            "8",
-                            "9",
-                            "10",
-                            "11",
-                            "12",
-                            "13",
-                            "14",
-                            "15",
-                            "16",
-                            "17",
-                            "18",
-                            "19",
-                            "20",
-                            "21",
-                            "22",
-                            "24",
-                            "25",
-                            "27",
-                            "30",
-                            "31",
-                            "32",
-                            "33",
-                            "34",
-                            "35",
-                            "36",
-                            "37",
-                            "38",
-                            "40",
-                            "41",
-                            "42",
-                            "43",
-                            "44",
-                            "45",
-                            "46",
-                            "47",
-                            "48",
-                            "49",
-                            "51",
-                            "52",
-                            "53",
-                            "54",
-                            "55",
-                            "56",
-                            "57",
-                            "58",
-                            "59",
-                            "60",
-                            "61",
-                            "62",
-                            "63",
-                            "64",
-                            "65",
-                            "66",
-                            "67",
-                            "69",
-                            "70",
-                            "71",
-                            "72",
-                            "73",
-                            "74",
-                            "75",
-                            "76",
-                            "80",
-                            "81",
-                            "82",
-                            "83",
-                            "84",
-                            "85",
-                            "86",
-                            "88",
-                            "90",
-                            "91",
-                            "92",
-                            "93",
-                            "94",
-                            "95",
-                            "96",
-                            "97",
-                            "98",
-                            "99",
-                            "77",
-                            "79"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 122.0,
-                            "vatAmount": 6.91,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Kalmar l\u00e4n",
-                    "productId": "11",
-                    "productSalesChannels": [
-                        "app",
-                        "web",
-                        "center",
-                        "pos",
-                        "onboard",
-                        "tvm"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "64",
-                            "130"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 62.0,
-                            "vatAmount": 3.51,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Klintem\u00e5la Sk\u00e4rg\u00e5rd",
-                    "productId": "20",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "64",
-                            "130"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Klintem\u00e5la Sk\u00e4rg\u00e5rd",
-                    "productId": "20",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "90",
-                            "131"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 62.0,
-                            "vatAmount": 3.51,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett S\u00f6dra Sk\u00e4rg\u00e5rden",
-                    "productId": "22",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "90",
-                            "131"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett S\u00f6dra Sk\u00e4rg\u00e5rden",
-                    "productId": "22",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "95",
-                            "132"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 62.0,
-                            "vatAmount": 3.51,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Id\u00f6 Sk\u00e4rg\u00e5rd",
-                    "productId": "24",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "95",
-                            "132"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Id\u00f6 Sk\u00e4rg\u00e5rd",
-                    "productId": "24",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "95",
-                            "133"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 62.0,
-                            "vatAmount": 3.51,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Mellersta Sk\u00e4rg\u00e5rden",
-                    "productId": "26",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "95",
-                            "133"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett Mellersta Sk\u00e4rg\u00e5rden",
-                    "productId": "26",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "64",
-                            "130"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Cykelbiljett Klintem\u00e5la Sk\u00e4rg\u00e5rd",
-                    "productId": "120",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Cykel Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "g"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "90",
-                            "131"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Cykelbiljett S\u00f6dra Sk\u00e4rg\u00e5rden",
-                    "productId": "121",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Cykel Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "g"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "95",
-                            "132"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Cykelbiljett Id\u00f6 Sk\u00e4rg\u00e5rd",
-                    "productId": "122",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Cykel Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "g"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "95",
-                            "133"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 37.0,
-                            "vatAmount": 2.09,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Cykelbiljett Mellersta Sk\u00e4rg\u00e5rden",
-                    "productId": "123",
-                    "productSalesChannels": [
-                        "onboard"
-                    ],
-                    "productTitle": "1 zon Cykel Enkel",
-                    "relativeValidity": "PT260M",
-                    "travellerCategoryIds": [
-                        "g"
-                    ]
-                },
                 {
                     "conditions": {
                         "adjacencyRequired": false,
@@ -18753,9 +16551,2211 @@
                     "travellerCategoryIds": [
                         "g"
                     ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "95",
+                            "133"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Cykelbiljett Mellersta Sk\u00e4rg\u00e5rden",
+                    "productId": "123",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Cykel Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "g"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "95",
+                            "132"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Cykelbiljett Id\u00f6 Sk\u00e4rg\u00e5rd",
+                    "productId": "122",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Cykel Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "g"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "90",
+                            "131"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Cykelbiljett S\u00f6dra Sk\u00e4rg\u00e5rden",
+                    "productId": "121",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Cykel Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "g"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "64",
+                            "130"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Cykelbiljett Klintem\u00e5la Sk\u00e4rg\u00e5rd",
+                    "productId": "120",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Cykel Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "g"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "95",
+                            "133"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 62.0,
+                            "vatAmount": 3.51,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Mellersta Sk\u00e4rg\u00e5rden",
+                    "productId": "26",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "95",
+                            "133"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Mellersta Sk\u00e4rg\u00e5rden",
+                    "productId": "26",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "95",
+                            "132"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 62.0,
+                            "vatAmount": 3.51,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Id\u00f6 Sk\u00e4rg\u00e5rd",
+                    "productId": "24",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "95",
+                            "132"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Id\u00f6 Sk\u00e4rg\u00e5rd",
+                    "productId": "24",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "90",
+                            "131"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 62.0,
+                            "vatAmount": 3.51,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett S\u00f6dra Sk\u00e4rg\u00e5rden",
+                    "productId": "22",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "90",
+                            "131"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett S\u00f6dra Sk\u00e4rg\u00e5rden",
+                    "productId": "22",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "64",
+                            "130"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 62.0,
+                            "vatAmount": 3.51,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Klintem\u00e5la Sk\u00e4rg\u00e5rd",
+                    "productId": "20",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "64",
+                            "130"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Klintem\u00e5la Sk\u00e4rg\u00e5rd",
+                    "productId": "20",
+                    "productSalesChannels": [
+                        "onboard"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 89,
+                        "zones": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "24",
+                            "25",
+                            "27",
+                            "30",
+                            "31",
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "51",
+                            "52",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "57",
+                            "58",
+                            "59",
+                            "60",
+                            "61",
+                            "62",
+                            "63",
+                            "64",
+                            "65",
+                            "66",
+                            "67",
+                            "69",
+                            "70",
+                            "71",
+                            "72",
+                            "73",
+                            "74",
+                            "75",
+                            "76",
+                            "80",
+                            "81",
+                            "82",
+                            "83",
+                            "84",
+                            "85",
+                            "86",
+                            "88",
+                            "90",
+                            "91",
+                            "92",
+                            "93",
+                            "94",
+                            "95",
+                            "96",
+                            "97",
+                            "98",
+                            "99",
+                            "77",
+                            "79"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 73.0,
+                            "vatAmount": 4.13,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kalmar l\u00e4n",
+                    "productId": "11",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 89,
+                        "zones": [
+                            "1",
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7",
+                            "8",
+                            "9",
+                            "10",
+                            "11",
+                            "12",
+                            "13",
+                            "14",
+                            "15",
+                            "16",
+                            "17",
+                            "18",
+                            "19",
+                            "20",
+                            "21",
+                            "22",
+                            "24",
+                            "25",
+                            "27",
+                            "30",
+                            "31",
+                            "32",
+                            "33",
+                            "34",
+                            "35",
+                            "36",
+                            "37",
+                            "38",
+                            "40",
+                            "41",
+                            "42",
+                            "43",
+                            "44",
+                            "45",
+                            "46",
+                            "47",
+                            "48",
+                            "49",
+                            "51",
+                            "52",
+                            "53",
+                            "54",
+                            "55",
+                            "56",
+                            "57",
+                            "58",
+                            "59",
+                            "60",
+                            "61",
+                            "62",
+                            "63",
+                            "64",
+                            "65",
+                            "66",
+                            "67",
+                            "69",
+                            "70",
+                            "71",
+                            "72",
+                            "73",
+                            "74",
+                            "75",
+                            "76",
+                            "80",
+                            "81",
+                            "82",
+                            "83",
+                            "84",
+                            "85",
+                            "86",
+                            "88",
+                            "90",
+                            "91",
+                            "92",
+                            "93",
+                            "94",
+                            "95",
+                            "96",
+                            "97",
+                            "98",
+                            "99",
+                            "77",
+                            "79"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 122.0,
+                            "vatAmount": 6.91,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett Kalmar l\u00e4n",
+                    "productId": "11",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT260M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 1
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 31.0,
+                            "vatAmount": 1.75,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett",
+                    "productId": "7",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 1
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 19.0,
+                            "vatAmount": 1.08,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett",
+                    "productId": "7",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 2
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 41.0,
+                            "vatAmount": 2.32,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-2-zon",
+                    "productId": "7-2-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "2 zon Vuxen Enkel",
+                    "relativeValidity": "PT130M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 2
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 25.0,
+                            "vatAmount": 1.42,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-2-zon",
+                    "productId": "7-2-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "2 zon Ungdom Enkel",
+                    "relativeValidity": "PT130M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 3
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 51.0,
+                            "vatAmount": 2.89,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-3-zon",
+                    "productId": "7-3-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "3 zon Vuxen Enkel",
+                    "relativeValidity": "PT140M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 3
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 31.0,
+                            "vatAmount": 1.75,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-3-zon",
+                    "productId": "7-3-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "3 zon Ungdom Enkel",
+                    "relativeValidity": "PT140M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 4
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 62.0,
+                            "vatAmount": 3.51,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-4-zon",
+                    "productId": "7-4-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "4 zon Vuxen Enkel",
+                    "relativeValidity": "PT150M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 4
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 37.0,
+                            "vatAmount": 2.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-4-zon",
+                    "productId": "7-4-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "4 zon Ungdom Enkel",
+                    "relativeValidity": "PT150M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 5
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 72.0,
+                            "vatAmount": 4.08,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-5-zon",
+                    "productId": "7-5-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "5 zon Vuxen Enkel",
+                    "relativeValidity": "PT160M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 5
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 43.0,
+                            "vatAmount": 2.43,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-5-zon",
+                    "productId": "7-5-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "5 zon Ungdom Enkel",
+                    "relativeValidity": "PT160M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 6
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 82.0,
+                            "vatAmount": 4.64,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-6-zon",
+                    "productId": "7-6-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "6 zon Vuxen Enkel",
+                    "relativeValidity": "PT170M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 6
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 49.0,
+                            "vatAmount": 2.77,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-6-zon",
+                    "productId": "7-6-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "6 zon Ungdom Enkel",
+                    "relativeValidity": "PT170M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 7
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 92.0,
+                            "vatAmount": 5.21,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-7-zon",
+                    "productId": "7-7-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "7 zon Vuxen Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 7
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 55.0,
+                            "vatAmount": 3.11,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-7-zon",
+                    "productId": "7-7-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "7 zon Ungdom Enkel",
+                    "relativeValidity": "PT180M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 8
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 102.0,
+                            "vatAmount": 5.77,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-8-zon",
+                    "productId": "7-8-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "8 zon Vuxen Enkel",
+                    "relativeValidity": "PT190M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 8
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 61.0,
+                            "vatAmount": 3.45,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-8-zon",
+                    "productId": "7-8-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "8 zon Ungdom Enkel",
+                    "relativeValidity": "PT190M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 9
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 112.0,
+                            "vatAmount": 6.34,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-9-zon",
+                    "productId": "7-9-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "9 zon Vuxen Enkel",
+                    "relativeValidity": "PT200M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 9
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 67.0,
+                            "vatAmount": 3.79,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-9-zon",
+                    "productId": "7-9-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "9 zon Ungdom Enkel",
+                    "relativeValidity": "PT200M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 10
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 122.0,
+                            "vatAmount": 6.91,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 7.75,
+                                        "vatAmount": 0.46,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-10-zon",
+                    "productId": "7-10-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "10 zon Vuxen Enkel",
+                    "relativeValidity": "PT210M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "passedZonesCount": 10
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 73.0,
+                            "vatAmount": 4.13,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": [
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "50"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "38"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "24"
+                                },
+                                {
+                                    "discount": {
+                                        "currency": "SEK",
+                                        "totalAmount": 4.75,
+                                        "vatAmount": 0.28,
+                                        "vatPercentage": 6
+                                    },
+                                    "pid": "23"
+                                }
+                            ]
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett-10-zon",
+                    "productId": "7-10-zon",
+                    "productSalesChannels": [
+                        "tvm",
+                        "onboard",
+                        "pos",
+                        "center",
+                        "web",
+                        "app"
+                    ],
+                    "productTitle": "10 zon Ungdom Enkel",
+                    "relativeValidity": "PT210M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
                 }
             ],
-            "revisionId": "818",
+            "revisionId": "819",
             "version": "1.1.0"
         },
         {
