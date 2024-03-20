@@ -1,5 +1,5 @@
 {
-    "id": "https://offline.mobileticket.se/pricelist/1707919139",
+    "id": "https://offline.mobileticket.se/pricelist/1710969842",
     "pricelists": [
         {
             "description": "Manual pricelist for Sk\u00e5netrafiken",
@@ -479,7 +479,7 @@
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.hlt.se/api/v1/pricelist/1591",
+            "id": "https://stina.test.bobcat.hlt.se/api/v1/pricelist/1648",
             "pid": "22",
             "products": [
                 {
@@ -1834,8 +1834,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 27.0,
-                            "vatAmount": 1.53,
+                            "totalAmount": 16.2,
+                            "vatAmount": 0.92,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -1843,8 +1843,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -1852,8 +1852,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -1861,8 +1861,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -1882,10 +1882,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -1958,8 +1958,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 16.2,
-                            "vatAmount": 0.92,
+                            "totalAmount": 27.0,
+                            "vatAmount": 1.53,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -1967,8 +1967,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -1976,8 +1976,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -1985,8 +1985,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2006,10 +2006,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -2020,8 +2020,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2029,8 +2029,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2038,8 +2038,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2047,8 +2047,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2068,10 +2068,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "2 zon Vuxen Enkel",
+                    "productTitle": "2 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -2144,8 +2144,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2153,8 +2153,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2162,8 +2162,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2171,8 +2171,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2192,10 +2192,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "2 zon Ungdom Enkel",
+                    "productTitle": "2 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -2206,8 +2206,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 73.0,
-                            "vatAmount": 4.13,
+                            "totalAmount": 43.8,
+                            "vatAmount": 2.48,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2215,8 +2215,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2224,8 +2224,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2233,8 +2233,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2254,10 +2254,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "3 zon Vuxen Enkel",
+                    "productTitle": "3 zon Ungdom Enkel",
                     "relativeValidity": "PT110M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -2330,8 +2330,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 43.8,
-                            "vatAmount": 2.48,
+                            "totalAmount": 73.0,
+                            "vatAmount": 4.13,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2339,8 +2339,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2348,8 +2348,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2357,8 +2357,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2378,10 +2378,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "3 zon Ungdom Enkel",
+                    "productTitle": "3 zon Vuxen Enkel",
                     "relativeValidity": "PT110M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -2392,8 +2392,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 96.0,
-                            "vatAmount": 5.43,
+                            "totalAmount": 57.6,
+                            "vatAmount": 3.26,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2401,8 +2401,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2410,8 +2410,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2419,8 +2419,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2440,10 +2440,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "4 zon Vuxen Enkel",
+                    "productTitle": "4 zon Ungdom Enkel",
                     "relativeValidity": "PT120M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -2516,8 +2516,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 57.6,
-                            "vatAmount": 3.26,
+                            "totalAmount": 96.0,
+                            "vatAmount": 5.43,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2525,8 +2525,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2534,8 +2534,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2543,8 +2543,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2564,10 +2564,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "4 zon Ungdom Enkel",
+                    "productTitle": "4 zon Vuxen Enkel",
                     "relativeValidity": "PT120M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -2578,8 +2578,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 119.0,
-                            "vatAmount": 6.74,
+                            "totalAmount": 71.4,
+                            "vatAmount": 4.04,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2587,8 +2587,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2596,8 +2596,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2605,8 +2605,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2626,10 +2626,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "5 zon Vuxen Enkel",
+                    "productTitle": "5 zon Ungdom Enkel",
                     "relativeValidity": "PT130M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -2702,8 +2702,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 71.4,
-                            "vatAmount": 4.04,
+                            "totalAmount": 119.0,
+                            "vatAmount": 6.74,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2711,8 +2711,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2720,8 +2720,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2729,8 +2729,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2750,10 +2750,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "5 zon Ungdom Enkel",
+                    "productTitle": "5 zon Vuxen Enkel",
                     "relativeValidity": "PT130M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -2764,8 +2764,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 142.0,
-                            "vatAmount": 8.04,
+                            "totalAmount": 85.2,
+                            "vatAmount": 4.82,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2773,8 +2773,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2782,8 +2782,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2791,8 +2791,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2812,10 +2812,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "6 zon Vuxen Enkel",
+                    "productTitle": "6 zon Ungdom Enkel",
                     "relativeValidity": "PT140M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -2888,8 +2888,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 85.2,
-                            "vatAmount": 4.82,
+                            "totalAmount": 142.0,
+                            "vatAmount": 8.04,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2897,8 +2897,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2906,8 +2906,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2915,8 +2915,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2936,10 +2936,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "6 zon Ungdom Enkel",
+                    "productTitle": "6 zon Vuxen Enkel",
                     "relativeValidity": "PT140M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -2950,8 +2950,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 165.0,
-                            "vatAmount": 9.34,
+                            "totalAmount": 99.0,
+                            "vatAmount": 5.6,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -2959,8 +2959,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -2968,8 +2968,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -2977,8 +2977,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 6.8,
-                                        "vatAmount": 0.38,
+                                        "totalAmount": 4.0,
+                                        "vatAmount": 0.23,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -2998,10 +2998,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "7 zon Vuxen Enkel",
+                    "productTitle": "7 zon Ungdom Enkel",
                     "relativeValidity": "PT150M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -3074,8 +3074,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 99.0,
-                            "vatAmount": 5.6,
+                            "totalAmount": 165.0,
+                            "vatAmount": 9.34,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -3083,8 +3083,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "24"
@@ -3092,8 +3092,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "23"
@@ -3101,8 +3101,8 @@
                                 {
                                     "discount": {
                                         "currency": "SEK",
-                                        "totalAmount": 4.0,
-                                        "vatAmount": 0.23,
+                                        "totalAmount": 6.8,
+                                        "vatAmount": 0.38,
                                         "vatPercentage": 6
                                     },
                                     "pid": "10"
@@ -3122,10 +3122,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "7 zon Ungdom Enkel",
+                    "productTitle": "7 zon Vuxen Enkel",
                     "relativeValidity": "PT150M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -4529,8 +4529,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -4548,10 +4548,10 @@
                     "productSalesChannels": [
                         "app"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -4603,8 +4603,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -4622,10 +4622,10 @@
                     "productSalesChannels": [
                         "app"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -4639,8 +4639,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 32.0,
-                            "vatAmount": 1.81,
+                            "totalAmount": 19.2,
+                            "vatAmount": 1.09,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -4660,10 +4660,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -4715,8 +4715,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 19.2,
-                            "vatAmount": 1.09,
+                            "totalAmount": 32.0,
+                            "vatAmount": 1.81,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -4736,10 +4736,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -4865,8 +4865,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 59.0,
-                            "vatAmount": 3.34,
+                            "totalAmount": 35.4,
+                            "vatAmount": 2.0,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -4886,10 +4886,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -4943,8 +4943,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 35.4,
-                            "vatAmount": 2.0,
+                            "totalAmount": 59.0,
+                            "vatAmount": 3.34,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -4964,10 +4964,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -4982,8 +4982,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5002,10 +5002,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -5058,8 +5058,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5078,10 +5078,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -5204,8 +5204,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5223,10 +5223,10 @@
                     "productSalesChannels": [
                         "app"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -5278,8 +5278,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5297,10 +5297,10 @@
                     "productSalesChannels": [
                         "app"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -5425,8 +5425,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 32.0,
-                            "vatAmount": 1.81,
+                            "totalAmount": 19.2,
+                            "vatAmount": 1.09,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5446,10 +5446,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -5501,8 +5501,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 19.2,
-                            "vatAmount": 1.09,
+                            "totalAmount": 32.0,
+                            "vatAmount": 1.81,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5522,88 +5522,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "450",
-                            "451"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 59.0,
-                            "vatAmount": 3.34,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Falkenberg AB",
-                    "productId": "307",
-                    "productSalesChannels": [
-                        "onboard",
-                        "center",
-                        "pos"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT100M",
-                    "travellerCategoryIds": [
                         "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 2,
-                        "zones": [
-                            "450",
-                            "451"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 44.3,
-                            "vatAmount": 2.51,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Falkenberg AB",
-                    "productId": "307",
-                    "productSalesChannels": [
-                        "onboard",
-                        "center",
-                        "pos"
-                    ],
-                    "productTitle": "1 zon Student Enkel",
-                    "relativeValidity": "PT100M",
-                    "travellerCategoryIds": [
-                        "e"
                     ]
                 },
                 {
@@ -5657,8 +5579,86 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 44.3,
+                            "vatAmount": 2.51,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Falkenberg AB",
+                    "productId": "307",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT100M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "450",
+                            "451"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 59.0,
+                            "vatAmount": 3.34,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Falkenberg AB",
+                    "productId": "307",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT100M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 2,
+                        "zones": [
+                            "450",
+                            "451"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5677,10 +5677,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -5733,8 +5733,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5753,10 +5753,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -5879,8 +5879,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5898,10 +5898,10 @@
                     "productSalesChannels": [
                         "app"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -5953,8 +5953,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -5972,10 +5972,10 @@
                     "productSalesChannels": [
                         "app"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -6101,8 +6101,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 50.0,
-                            "vatAmount": 2.83,
+                            "totalAmount": 30.0,
+                            "vatAmount": 1.7,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6121,10 +6121,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -6177,8 +6177,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 30.0,
-                            "vatAmount": 1.7,
+                            "totalAmount": 50.0,
+                            "vatAmount": 2.83,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6197,10 +6197,10 @@
                         "tvm",
                         "web"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -6214,8 +6214,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 32.0,
-                            "vatAmount": 1.81,
+                            "totalAmount": 19.2,
+                            "vatAmount": 1.09,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6235,10 +6235,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -6290,8 +6290,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 19.2,
-                            "vatAmount": 1.09,
+                            "totalAmount": 32.0,
+                            "vatAmount": 1.81,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6311,10 +6311,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -6329,8 +6329,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 59.0,
-                            "vatAmount": 3.34,
+                            "totalAmount": 35.4,
+                            "vatAmount": 2.0,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6350,10 +6350,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Vuxen Enkel",
+                    "productTitle": "1 zon Ungdom Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "a"
+                        "h"
                     ]
                 },
                 {
@@ -6407,8 +6407,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 35.4,
-                            "vatAmount": 2.0,
+                            "totalAmount": 59.0,
+                            "vatAmount": 3.34,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6428,10 +6428,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT100M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -6540,82 +6540,6 @@
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
                         "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "420"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 32.0,
-                            "vatAmount": 1.81,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Laholm",
-                    "productId": "209",
-                    "productSalesChannels": [
-                        "onboard",
-                        "center",
-                        "pos"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "420"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 24.0,
-                            "vatAmount": 1.36,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Laholm",
-                    "productId": "209",
-                    "productSalesChannels": [
-                        "onboard",
-                        "center",
-                        "pos"
-                    ],
-                    "productTitle": "1 zon Student Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "e"
                     ]
                 },
                 {
@@ -6667,8 +6591,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 27.0,
-                            "vatAmount": 1.53,
+                            "totalAmount": 24.0,
+                            "vatAmount": 1.36,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -6682,47 +6606,11 @@
                         "single"
                     ],
                     "productDescription": "Enkel Laholm",
-                    "productId": "214",
+                    "productId": "209",
                     "productSalesChannels": [
-                        "tvm",
-                        "web"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "420"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 20.3,
-                            "vatAmount": 1.15,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Laholm",
-                    "productId": "214",
-                    "productSalesChannels": [
-                        "tvm",
-                        "web"
+                        "onboard",
+                        "center",
+                        "pos"
                     ],
                     "productTitle": "1 zon Student Enkel",
                     "relativeValidity": "PT60M",
@@ -6736,262 +6624,6 @@
                         "uniqueZonesCount": 1,
                         "zones": [
                             "420"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 16.2,
-                            "vatAmount": 0.92,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Laholm",
-                    "productId": "214",
-                    "productSalesChannels": [
-                        "tvm",
-                        "web"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 16.2,
-                            "vatAmount": 0.92,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "210",
-                    "productSalesChannels": [
-                        "app"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 20.3,
-                            "vatAmount": 1.15,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "210",
-                    "productSalesChannels": [
-                        "app"
-                    ],
-                    "productTitle": "1 zon Student Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "e"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 27.0,
-                            "vatAmount": 1.53,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "210",
-                    "productSalesChannels": [
-                        "app"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 27.0,
-                            "vatAmount": 1.53,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "211",
-                    "productSalesChannels": [
-                        "tvm",
-                        "web"
-                    ],
-                    "productTitle": "1 zon Vuxen Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "a"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 20.3,
-                            "vatAmount": 1.15,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "211",
-                    "productSalesChannels": [
-                        "tvm",
-                        "web"
-                    ],
-                    "productTitle": "1 zon Student Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "e"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 16.2,
-                            "vatAmount": 0.92,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "211",
-                    "productSalesChannels": [
-                        "tvm",
-                        "web"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT60M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "440"
                         ]
                     },
                     "fare": {
@@ -7011,8 +6643,8 @@
                     "productCategoryIds": [
                         "single"
                     ],
-                    "productDescription": "Enkel Hylte",
-                    "productId": "215",
+                    "productDescription": "Enkel Laholm",
+                    "productId": "209",
                     "productSalesChannels": [
                         "onboard",
                         "center",
@@ -7022,6 +6654,374 @@
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
                         "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "420"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 16.2,
+                            "vatAmount": 0.92,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Laholm",
+                    "productId": "214",
+                    "productSalesChannels": [
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "420"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 20.3,
+                            "vatAmount": 1.15,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Laholm",
+                    "productId": "214",
+                    "productSalesChannels": [
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "420"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 27.0,
+                            "vatAmount": 1.53,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Laholm",
+                    "productId": "214",
+                    "productSalesChannels": [
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 16.2,
+                            "vatAmount": 0.92,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "210",
+                    "productSalesChannels": [
+                        "app"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 20.3,
+                            "vatAmount": 1.15,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "210",
+                    "productSalesChannels": [
+                        "app"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 27.0,
+                            "vatAmount": 1.53,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "210",
+                    "productSalesChannels": [
+                        "app"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 16.2,
+                            "vatAmount": 0.92,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "211",
+                    "productSalesChannels": [
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "h"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 20.3,
+                            "vatAmount": 1.15,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "211",
+                    "productSalesChannels": [
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Student Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "e"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 27.0,
+                            "vatAmount": 1.53,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "211",
+                    "productSalesChannels": [
+                        "tvm",
+                        "web"
+                    ],
+                    "productTitle": "1 zon Vuxen Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "440"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 19.2,
+                            "vatAmount": 1.09,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkel Hylte",
+                    "productId": "215",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT60M",
+                    "travellerCategoryIds": [
+                        "h"
                     ]
                 },
                 {
@@ -7073,8 +7073,8 @@
                     "fare": {
                         "base": {
                             "currency": "SEK",
-                            "totalAmount": 19.2,
-                            "vatAmount": 1.09,
+                            "totalAmount": 32.0,
+                            "vatAmount": 1.81,
                             "vatPercentage": 6
                         },
                         "discounts": {
@@ -7094,10 +7094,10 @@
                         "center",
                         "pos"
                     ],
-                    "productTitle": "1 zon Ungdom Enkel",
+                    "productTitle": "1 zon Vuxen Enkel",
                     "relativeValidity": "PT60M",
                     "travellerCategoryIds": [
-                        "h"
+                        "a"
                     ]
                 },
                 {
@@ -7803,51 +7803,13 @@
                     ]
                 }
             ],
-            "revisionId": "1591",
+            "revisionId": "1648",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.lanstrafikenkron.se/api/v1/pricelist/1245",
+            "id": "https://stina.test.bobcat.lanstrafikenkron.se/api/v1/pricelist/1276",
             "pid": "23",
             "products": [
-                {
-                    "conditions": {
-                        "adjacencyRequired": false,
-                        "uniqueZonesCount": 1,
-                        "zones": [
-                            "701"
-                        ]
-                    },
-                    "fare": {
-                        "base": {
-                            "currency": "SEK",
-                            "totalAmount": 22.0,
-                            "vatAmount": 1.25,
-                            "vatPercentage": 6
-                        },
-                        "discounts": {
-                            "adjacencies": []
-                        }
-                    },
-                    "fareCategoryIds": [
-                        "regular"
-                    ],
-                    "productCategoryIds": [
-                        "single"
-                    ],
-                    "productDescription": "Enkelbiljett V\u00e4xj\u00f6 Stadstrafik h\u00f6gre pris\n",
-                    "productId": "14",
-                    "productSalesChannels": [
-                        "onboard",
-                        "center",
-                        "pos"
-                    ],
-                    "productTitle": "1 zon Ungdom Enkel",
-                    "relativeValidity": "PT120M",
-                    "travellerCategoryIds": [
-                        "h"
-                    ]
-                },
                 {
                     "conditions": {
                         "adjacencyRequired": false,
@@ -7884,6 +7846,44 @@
                     "relativeValidity": "PT120M",
                     "travellerCategoryIds": [
                         "a"
+                    ]
+                },
+                {
+                    "conditions": {
+                        "adjacencyRequired": false,
+                        "uniqueZonesCount": 1,
+                        "zones": [
+                            "701"
+                        ]
+                    },
+                    "fare": {
+                        "base": {
+                            "currency": "SEK",
+                            "totalAmount": 22.0,
+                            "vatAmount": 1.25,
+                            "vatPercentage": 6
+                        },
+                        "discounts": {
+                            "adjacencies": []
+                        }
+                    },
+                    "fareCategoryIds": [
+                        "regular"
+                    ],
+                    "productCategoryIds": [
+                        "single"
+                    ],
+                    "productDescription": "Enkelbiljett V\u00e4xj\u00f6 Stadstrafik h\u00f6gre pris\n",
+                    "productId": "14",
+                    "productSalesChannels": [
+                        "onboard",
+                        "center",
+                        "pos"
+                    ],
+                    "productTitle": "1 zon Ungdom Enkel",
+                    "relativeValidity": "PT120M",
+                    "travellerCategoryIds": [
+                        "h"
                     ]
                 },
                 {
@@ -15642,11 +15642,11 @@
                     ]
                 }
             ],
-            "revisionId": "1245",
+            "revisionId": "1276",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.jlt.se/api/v1/pricelist/413",
+            "id": "https://stina.test.bobcat.jlt.se/api/v1/pricelist/421",
             "pid": "24",
             "products": [
                 {
@@ -17257,11 +17257,11 @@
                     ]
                 }
             ],
-            "revisionId": "413",
+            "revisionId": "421",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.test.bobcat.kalmarlanstrafik.se/api/v1/pricelist/1215",
+            "id": "https://stina.test.bobcat.kalmarlanstrafik.se/api/v1/pricelist/1241",
             "pid": "25",
             "products": [
                 {
@@ -17326,6 +17326,7 @@
                     "productDescription": "Enkelbiljett",
                     "productId": "7",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17402,6 +17403,7 @@
                     "productDescription": "Enkelbiljett",
                     "productId": "7",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17478,6 +17480,7 @@
                     "productDescription": "Enkelbiljett",
                     "productId": "7",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17554,6 +17557,7 @@
                     "productDescription": "Enkelbiljett-2-zon",
                     "productId": "7-2-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17630,6 +17634,7 @@
                     "productDescription": "Enkelbiljett-2-zon",
                     "productId": "7-2-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17706,6 +17711,7 @@
                     "productDescription": "Enkelbiljett-2-zon",
                     "productId": "7-2-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17782,6 +17788,7 @@
                     "productDescription": "Enkelbiljett-3-zon",
                     "productId": "7-3-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17858,6 +17865,7 @@
                     "productDescription": "Enkelbiljett-3-zon",
                     "productId": "7-3-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -17934,6 +17942,7 @@
                     "productDescription": "Enkelbiljett-3-zon",
                     "productId": "7-3-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18010,6 +18019,7 @@
                     "productDescription": "Enkelbiljett-4-zon",
                     "productId": "7-4-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18086,6 +18096,7 @@
                     "productDescription": "Enkelbiljett-4-zon",
                     "productId": "7-4-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18162,6 +18173,7 @@
                     "productDescription": "Enkelbiljett-4-zon",
                     "productId": "7-4-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18238,6 +18250,7 @@
                     "productDescription": "Enkelbiljett-5-zon",
                     "productId": "7-5-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18314,6 +18327,7 @@
                     "productDescription": "Enkelbiljett-5-zon",
                     "productId": "7-5-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18390,6 +18404,7 @@
                     "productDescription": "Enkelbiljett-5-zon",
                     "productId": "7-5-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18466,6 +18481,7 @@
                     "productDescription": "Enkelbiljett-6-zon",
                     "productId": "7-6-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18542,6 +18558,7 @@
                     "productDescription": "Enkelbiljett-6-zon",
                     "productId": "7-6-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18618,6 +18635,7 @@
                     "productDescription": "Enkelbiljett-6-zon",
                     "productId": "7-6-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18694,6 +18712,7 @@
                     "productDescription": "Enkelbiljett-7-zon",
                     "productId": "7-7-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18770,6 +18789,7 @@
                     "productDescription": "Enkelbiljett-7-zon",
                     "productId": "7-7-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18846,6 +18866,7 @@
                     "productDescription": "Enkelbiljett-7-zon",
                     "productId": "7-7-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18922,6 +18943,7 @@
                     "productDescription": "Enkelbiljett-8-zon",
                     "productId": "7-8-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -18998,6 +19020,7 @@
                     "productDescription": "Enkelbiljett-8-zon",
                     "productId": "7-8-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19074,6 +19097,7 @@
                     "productDescription": "Enkelbiljett-8-zon",
                     "productId": "7-8-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19150,6 +19174,7 @@
                     "productDescription": "Enkelbiljett-9-zon",
                     "productId": "7-9-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19226,6 +19251,7 @@
                     "productDescription": "Enkelbiljett-9-zon",
                     "productId": "7-9-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19302,6 +19328,7 @@
                     "productDescription": "Enkelbiljett-9-zon",
                     "productId": "7-9-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19378,6 +19405,7 @@
                     "productDescription": "Enkelbiljett-10-zon",
                     "productId": "7-10-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19454,6 +19482,7 @@
                     "productDescription": "Enkelbiljett-10-zon",
                     "productId": "7-10-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -19530,6 +19559,7 @@
                     "productDescription": "Enkelbiljett-10-zon",
                     "productId": "7-10-zon",
                     "productSalesChannels": [
+                        "office",
                         "center",
                         "corporate",
                         "app",
@@ -20956,7 +20986,7 @@
                     ]
                 }
             ],
-            "revisionId": "1215",
+            "revisionId": "1241",
             "version": "1.1.0"
         },
         {
@@ -20968,7 +20998,7 @@
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.ot.test.mcs.fara.no/api/v1/pricelist/14",
+            "id": "https://stina.ot.test.mcs.fara.no/api/v1/pricelist/16",
             "pid": "50",
             "products": [
                 {
@@ -21770,11 +21800,11 @@
                     ]
                 }
             ],
-            "revisionId": "14",
+            "revisionId": "16",
             "version": "1.1.0"
         },
         {
-            "id": "https://stina.vt.test.mcs.fara.no/api/v1/pricelist/48",
+            "id": "https://stina.vt.test.mcs.fara.no/api/v1/pricelist/49",
             "pid": "51",
             "products": [
                 {
@@ -23188,7 +23218,7 @@
                     ]
                 }
             ],
-            "revisionId": "48",
+            "revisionId": "49",
             "version": "1.1.0"
         }
     ],
